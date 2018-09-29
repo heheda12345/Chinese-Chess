@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/chess">
+        <file alias="00">img/00.png</file>
+        <file alias="01">img/01.png</file>
+        <file alias="03">img/03.png</file>
+        <file alias="05">img/05.png</file>
+        <file alias="07">img/07.png</file>
+        <file alias="09">img/09.png</file>
+        <file alias="10">img/10.png</file>
+        <file alias="011">img/011.png</file>
+        <file alias="11">img/11.png</file>
+        <file alias="13">img/13.png</file>
+        <file alias="15">img/15.png</file>
+        <file alias="17">img/17.png</file>
+        <file alias="19">img/19.png</file>
+        <file alias="111">img/111.png</file>
+        <file alias="b">img/background.png</file>
+    </qresource>
+    <qresource prefix="/music">
+        <file alias="bei">img/beijiang.mp3</file>
+        <file alias="jiang">img/jiangjun.mp3</file>
+    </qresource>
+</RCC>
